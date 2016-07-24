@@ -1,4 +1,4 @@
-#AFSA
+#Python- AFSA 
 Artificial Fish Swarm Algorithm
 
 AFSA for Rosenbrock function
